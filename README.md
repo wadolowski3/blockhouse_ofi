@@ -14,4 +14,4 @@ This repo contains:
 
 ```bash
 pip install -r requirements.txt
-python ofi_features.py        # edit DATA_FILE at top if your csv path differs
+python ofi_features.py       
